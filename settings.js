@@ -8,12 +8,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: PrexzyVilla" //ur yt chanel name
-global.socialm = "IG : prexzy.ay" //ur github or insta name
-global.location = "Nigeria" //ur location
+global.ytname = "YT: Zarek" //ur yt chanel name
+global.socialm = "zarek" //ur github or insta name
+global.location = "Pakistan" //ur location
 
 //new
-global.botname = 'QUEEN NYX👸' //ur bot name
+global.botname = 'Zarek bot' //ur bot name
 global.ownernumber = '923109629997' //ur owner number
 global.ownername = 'Zarek' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
